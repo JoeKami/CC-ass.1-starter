@@ -49,6 +49,7 @@ button[type="button"] {
     width: 165px; 
 }
 
+/* not sure if top-middle class is necessary here */
 
 .top-middle {
     display: flex;
